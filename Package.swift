@@ -37,8 +37,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "FPHIDisclaimerWidget",
-            url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPHIDisclaimerWidget/0.1.0/FPHIDisclaimerWidget.zip",
-            checksum: "fc5646944ec07fe824a260c8d12785e1a2664d7b459448d7917174a4d0407fd3"
+            url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPHIDisclaimerWidget/0.1.5/FPHIDisclaimerWidget.zip",
+            checksum: "7ef724c43218d9b3deae615e60fc705d159d3042f2c33fa51772857156d86c4d"
         ),
     ]
 )
