@@ -18,7 +18,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/facephi-clienters/SDK-FPHIDesignSystemResources-SPM.git", exact: "2.8.3"),
+        .package(url: "https://github.com/facephi-clienters/SDK-FPHIDesignSystemResources-SPM.git", exact: "2.8.5"),
     ],
     targets: [
         .target(
@@ -35,8 +35,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "FPHIDisclaimerWidget",
-            url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPHIDisclaimerWidget/0.2.1/FPHIDisclaimerWidget.zip",
-            checksum: "2d26758a2d5f27ccd099487bc74e87ea4e84bb593edc562401f67aee5cf1be06"
+            url: "https://facephicorp.jfrog.io/artifactory/spm-pro-fphi/WIDGET/FPHIDisclaimerWidget/0.2.3/FPHIDisclaimerWidget.zip",
+            checksum: "44ca4fe64846180e78ba19bfa64d032a18eb8b3fa41728c61c2b6929e8d83bfe"
         ),
     ]
 )
